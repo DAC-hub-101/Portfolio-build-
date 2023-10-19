@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DAC-hub-101/Portfolio-build-/static/css/main.d28a03cc.css",
-    "main.js": "/DAC-hub-101/Portfolio-build-/static/js/main.a4d3f020.js",
-    "static/media/WorkInProgress.png": "/DAC-hub-101/Portfolio-build-/static/media/WorkInProgress.4a98e79208c50c1d1ec0.png",
-    "static/media/avatar.jpg": "/DAC-hub-101/Portfolio-build-/static/media/avatar.9c2157cba846466417a8.jpg",
-    "static/media/space.jpg": "/DAC-hub-101/Portfolio-build-/static/media/space.3f8a0d3a05eccfce2f4a.jpg",
-    "index.html": "/DAC-hub-101/Portfolio-build-/index.html",
-    "static/media/cv.pdf": "/DAC-hub-101/Portfolio-build-/static/media/cv.31d6cfe0d16ae931b73c.pdf",
-    "main.d28a03cc.css.map": "/DAC-hub-101/Portfolio-build-/static/css/main.d28a03cc.css.map",
-    "main.a4d3f020.js.map": "/DAC-hub-101/Portfolio-build-/static/js/main.a4d3f020.js.map"
+    "main.css": "/Portfolio-build-/static/css/main.d28a03cc.css",
+    "main.js": "/Portfolio-build-/static/js/main.48fde015.js",
+    "static/media/WorkInProgress.png": "/Portfolio-build-/static/media/WorkInProgress.4a98e79208c50c1d1ec0.png",
+    "static/media/avatar.jpg": "/Portfolio-build-/static/media/avatar.9c2157cba846466417a8.jpg",
+    "static/media/space.jpg": "/Portfolio-build-/static/media/space.3f8a0d3a05eccfce2f4a.jpg",
+    "index.html": "/Portfolio-build-/index.html",
+    "static/media/cv.pdf": "/Portfolio-build-/static/media/cv.31d6cfe0d16ae931b73c.pdf",
+    "main.d28a03cc.css.map": "/Portfolio-build-/static/css/main.d28a03cc.css.map",
+    "main.48fde015.js.map": "/Portfolio-build-/static/js/main.48fde015.js.map"
   },
   "entrypoints": [
     "static/css/main.d28a03cc.css",
-    "static/js/main.a4d3f020.js"
+    "static/js/main.48fde015.js"
   ]
 }
