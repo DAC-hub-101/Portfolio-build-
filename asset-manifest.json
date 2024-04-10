@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio-build-/static/css/main.d28a03cc.css",
-    "main.js": "/Portfolio-build-/static/js/main.48fde015.js",
-    "static/media/WorkInProgress.png": "/Portfolio-build-/static/media/WorkInProgress.4a98e79208c50c1d1ec0.png",
-    "static/media/avatar.jpg": "/Portfolio-build-/static/media/avatar.9c2157cba846466417a8.jpg",
-    "static/media/space.jpg": "/Portfolio-build-/static/media/space.3f8a0d3a05eccfce2f4a.jpg",
-    "index.html": "/Portfolio-build-/index.html",
-    "static/media/cv.pdf": "/Portfolio-build-/static/media/cv.31d6cfe0d16ae931b73c.pdf",
-    "main.d28a03cc.css.map": "/Portfolio-build-/static/css/main.d28a03cc.css.map",
-    "main.48fde015.js.map": "/Portfolio-build-/static/js/main.48fde015.js.map"
+    "main.css": "/Portfolio-build/static/css/main.d28a03cc.css",
+    "main.js": "/Portfolio-build/static/js/main.2c7991c9.js",
+    "static/media/portfolio_main_page.png": "/Portfolio-build/static/media/portfolio_main_page.efabbb257a3d480a87cf.png",
+    "static/media/portfolio_register_page.png": "/Portfolio-build/static/media/portfolio_register_page.655641969d10bd7f0a6e.png",
+    "static/media/portfolio_logging_page.png": "/Portfolio-build/static/media/portfolio_logging_page.914a3a85dccfc4a686b8.png",
+    "static/media/CV Software Development.pdf": "/Portfolio-build/static/media/CV Software Development.5447881f1c9b59169aa4.pdf",
+    "static/media/WorkInProgress.png": "/Portfolio-build/static/media/WorkInProgress.4a98e79208c50c1d1ec0.png",
+    "static/media/avatar.jpg": "/Portfolio-build/static/media/avatar.9c2157cba846466417a8.jpg",
+    "index.html": "/Portfolio-build/index.html",
+    "main.d28a03cc.css.map": "/Portfolio-build/static/css/main.d28a03cc.css.map",
+    "main.2c7991c9.js.map": "/Portfolio-build/static/js/main.2c7991c9.js.map"
   },
   "entrypoints": [
     "static/css/main.d28a03cc.css",
-    "static/js/main.48fde015.js"
+    "static/js/main.2c7991c9.js"
   ]
 }
